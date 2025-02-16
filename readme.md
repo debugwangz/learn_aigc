@@ -1,1 +1,1 @@
-线稿上色任务，使用vae gan stable diffusion实现
+学习aigc 图像生成模型
