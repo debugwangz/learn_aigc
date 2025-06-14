@@ -1,4 +1,4 @@
-# codes from https://www.zhihu.com/search?type=content&q=gan%20mnist%20%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0
+# codes from https://zhuanlan.zhihu.com/p/366926565
 from torch import nn
 # =================================================生成器================================================================
 class Generator(nn.Module):
